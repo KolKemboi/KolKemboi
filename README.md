@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact **I am into Korean culture and music because of Jennie Kim, yeah**
 
-- **I am really thankfull to GeeekforGeeks, not sure how my dev life would be without that bunch** 
+- **I am really thankful to GeeekforGeeks, not sure how my dev life would be without that bunch** 
 
 
 <h3 align="left">Languages and Tools:</h3>

@@ -14,7 +14,7 @@ A whole new world, and I am the protector, I am PythonMan</h3>
 
 - 📫 How to reach me **kolkemboi@gmail.com**
 
-- ⚡ Fun fact **I am into Korean culture and music because of Jennie Kim, yeah**
+- ⚡ Fun fact **I am into Korean culture and music because of Jennie Kim**
 
 - **I am really thankful to GeeekforGeeks, not sure how my dev life would be without that bunch** 
 

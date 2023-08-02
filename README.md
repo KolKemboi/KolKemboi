@@ -7,6 +7,7 @@ After then, I've been saving the codes I have written with my awesome snake powe
 A whole new world, and I am the protector, I am PythonMan</h3>
 
 
+
 - 🔭 I’m currently working on [a lot of computer vision stuff](https://github.com/KolKemboi/OpenComputerVision)
 
 - 🌱 I’m currently learning **OpenCV, PyTorch**

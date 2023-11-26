@@ -10,7 +10,7 @@ A whole new world, and I am the protector, I am PythonMan</h3>
 
 - 🔭 I’m currently working on [a lot of computer vision stuff](https://github.com/KolKemboi/OpenComputerVision)
 
-- 🌱 I’m currently learning **Java, PyTorch, C++**
+- 🌱 I’m currently learning **Java, PyTorch, C++, LangChain, Hugging Face**
 
 - 💬 Ask me about **Tensorflow, Python, OpenCV**
 

@@ -1,2 +1,2 @@
-<h1 align="center">Anyong Haseyo</h1>
-<h2 align="center">I love AI and Robotics</h2>
+<h3 align="center">Anyong Haseyo, I love AI ,Robotics and I'm getting into openGL, and faaaam, that's some good stuff</h3>
+

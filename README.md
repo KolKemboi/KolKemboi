@@ -1,5 +1,5 @@
 # Bio
-An eccentric Bro-grammer
+A regular Brogrammer
 
 # Stuff I do
 

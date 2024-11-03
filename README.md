@@ -1,5 +1,5 @@
 # Bio
-A regular Brogrammer
+A regular person
 
 # Stuff I do
 

@@ -12,11 +12,11 @@ A regular person
 
 # Currently working on
 
-<h3 align="center" id="title">Tesseract</h3>
+<h3  id="title">Tesseract</h3>
 
-![image alt](https://github.com/KolKemboi/Tesseract-Engine/blob/d815498972a5088c2609aae917e9292a9fde8a02/Tesseract%20Logo.png)
+![image alt](https://github.com/KolKemboi/KolKemboi/blob/36fbcd72db71830cb0db14a327a4b1d87a510b3b/Tesseract%20Logo.png)
 
-<h3 align="center" id="title">Film Tools Hecate</h3>
+<h3 id="title">Film Tools Hecate</h3>
 
 ![image alt](https://github.com/KolKemboi/KolKemboi/blob/9bfd35ce28fc2010deecec7e3c3971d168e81c59/hecate.png)
 

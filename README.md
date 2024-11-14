@@ -18,7 +18,7 @@ A regular person
 
 <h3 align="center" id="title">Film Tools Hecate</h3>
 
-![image alt](https://github.com/KolKemboi/FilmTools-Hecate/blob/2286f864bbd14d361d364659cf2e04f80c6747b8/logo.png)
+![image alt](https://github.com/KolKemboi/KolKemboi/blob/9bfd35ce28fc2010deecec7e3c3971d168e81c59/hecate.png)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

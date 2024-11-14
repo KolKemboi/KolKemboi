@@ -10,4 +10,15 @@ A regular person
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kolkemboi&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+# Currently working on
+
+<h3 align="center" id="title">Tesseract</h3>
+
+![image alt](https://github.com/KolKemboi/Tesseract-Engine/blob/d815498972a5088c2609aae917e9292a9fde8a02/Tesseract%20Logo.png)
+
+<h3 align="center" id="title">Film Tools Hecate</h3>
+
+![image alt](https://github.com/KolKemboi/FilmTools-Hecate/blob/2286f864bbd14d361d364659cf2e04f80c6747b8/logo.png)
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

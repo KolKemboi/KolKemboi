@@ -1,5 +1,16 @@
 # Bio
-Old Iron Kol
+
+Hi, my name is Kemboi Cheruiyot, some dude on github who likes robotics and the occasional
+artificial inteligence. Sort of a combo that comes by default.
+
+I like C++, I don't know maybe because of TheCherno, I also like dabbling with other tech-stacks:
+    - Accelerated Compute using Vulkan, so I can say, VulkanBTW
+    - Geometry Kernels, currently figuring out OCCT
+    - Terminal User Interfaces, using FTXUI
+
+Also, I am a neovim user, very influenced by ThePrimeagen, so yk, NeovimBTW
+
+Finally...
 
 # Currently working on
 

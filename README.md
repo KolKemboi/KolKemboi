@@ -1,16 +1,36 @@
 # Bio
 
-Hi, my name is Kemboi Cheruiyot, some dude on github who likes robotics and the occasional
-artificial inteligence. Sort of a combo that comes by default.
+# Hi, I'm Kemboi Cheruiyot 👋
 
-I like C++, I don't know maybe because of TheCherno, I also like dabbling with other tech-stacks:
-    - Accelerated Compute using Vulkan, so I can say, VulkanBTW
-    - Geometry Kernels, currently figuring out OCCT
-    - Terminal User Interfaces, using FTXUI
+Robotics engineer in the making, with a habit of wandering into artificial intelligence.
+The combo comes by default.
 
-Also, I am a neovim user, very influenced by ThePrimeagen, so yk, NeovimBTW
+I write **C++** — partly because of TheCherno, mostly because I like being close to the metal.
+I build things like:
 
-Finally...
+- **[Asimov](https://github.com/KolKemboi/Asimov)** — a 3D physics engine in C++ with rigid-body dynamics, real-time rendering, and URDF robot import.
+- **[kollang](https://github.com/KolKemboi/kollang)** — a compiler built from scratch in C++, with LLVM as its backend.
+- **[kernel](https://github.com/KolKemboi/kernel)** — a two-stage x86 bootloader in assembly that hands off to a C kernel.
+- **[rust_core_utils](https://github.com/KolKemboi/rust_core_utils)** — Linux coreutils, reimplemented in Rust.
+
+## Currently dabbling with
+
+- **Accelerated compute** via Vulkan — so yes, I can say *VulkanBTW*.
+- **Geometry kernels** — currently figuring out OCCT.
+- **Terminal user interfaces** — using FTXUI, because the terminal is home.
+
+## Also
+
+I use **Neovim** (thanks, ThePrimeagen), so *NeovimBTW* is fair game too.
+
+## Finally...
+
+I'm driven by one question: **how close to the hardware can I get, and how much can I make it do?**
+From bootloaders to physics engines to robotics, that curiosity is the throughline.
+
+If you're into low-level systems, robotics, or graphics — feel free to reach out.
+
+📫 kolkemboi@gmail.com · [LinkedIn](https://linkedin.com/in/kemboi-cheruiyot)
 
 # Currently working on
 

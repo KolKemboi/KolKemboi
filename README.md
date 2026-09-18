@@ -1,53 +1,117 @@
-# Bio
+# Kemboi Cheruiyot Here (wave hand emoji)
 
-# Hi, I'm Kemboi Cheruiyot 👋
+### Compiler Development • Operating Systems • Low-Level Systems • Robotics • AI • Graphics
 
-Robotics engineer in the making, with a habit of wandering into artificial intelligence.
-The combo comes by default.
 
-I write **C++** — partly because of TheCherno, mostly because I like being close to the metal.
-I build things like:
+Hi, I am Kemboi Cheruiyot, I am Mechatronics Student, turned developer.
+I like to stick to low level developement with a dash of robotics and intelligence.
+Besides, I am trained in all these fields from my class work. Well, if you discount the hours of electric, mechanics, materials, control, math and basically 3/4 of my undergrad, basically, I am a dev who can tell you what material to pick for your beams. But yes, I have been trained to build systems in Assembly, C and Python.
 
-- **[Asimov](https://github.com/KolKemboi/Asimov)** — a 3D physics engine in C++ with rigid-body dynamics, real-time rendering, and URDF robot import.
-- **[kollang](https://github.com/KolKemboi/kollang)** — a compiler built from scratch in C++, with LLVM as its backend.
-- **[kernel](https://github.com/KolKemboi/kernel)** — a two-stage x86 bootloader in assembly that hands off to a C kernel.
-- **[rust_core_utils](https://github.com/KolKemboi/rust_core_utils)** — Linux coreutils, reimplemented in Rust.
 
-## Currently dabbling with
 
-- **Accelerated compute** via Vulkan — so yes, I can say *VulkanBTW*.
-- **Geometry kernels** — currently figuring out OCCT.
-- **Terminal user interfaces** — using FTXUI, because the terminal is home.
+---
 
-## Also
+**Editor:** Neovim  
+**OS:** Linux — Ubuntu / Arch Linux  
+**Primary Languages:** C++, Rust, C, Assembly, Python, GDB
 
-I use **Neovim** (thanks, ThePrimeagen), so *NeovimBTW* is fair game too.
+---
 
-## Finally...
+#  Projects
 
-I'm driven by one question: **how close to the hardware can I get, and how much can I make it do?**
-From bootloaders to physics engines to robotics, that curiosity is the throughline.
+## **[Asimov](https://github.com/KolKemboi/Asimov)**
 
-If you're into low-level systems, robotics, or graphics — feel free to reach out.
+A physics engine focused on simulation, numerical methods, collision detection,
+rigid-body dynamics, and real-time physics.
 
-📫 kolkemboi@gmail.com · [LinkedIn](https://linkedin.com/in/kemboi-cheruiyot)
+**C++ • Physics • Mathematics • Simulation • Graphics**
 
-# Currently working on
+---
 
-<h3  id="title">Welder Robot</h3>
+##  **[Kollang](https://github.com/KolKemboi/kollang)**
 
-Welder is a six degree of freedom robot using ROS2 underneath the hood. Combined with the power of
-moveit motion planning to calculate its IK.
+A compiler project exploring the fundamentals of language implementation and
+code generation.
 
-[Welder Repo](https://github.com/KolKemboi/Welder_WS)
+**C++ / Rust • Lexing • Parsing • AST • IR • Optimization • Code Generation**
 
-![image url](https://github.com/KolKemboi/KolKemboi/blob/7b5d5566b2b4093dec8c1960ef5eed8b36baecd9/Welder.png)
+---
 
-<h3  id="title">Klaw Robot</h3>
+##  **[Tiny OS](https://github.com/KolKemboi/kernel)**
 
-Klaw is a version 2 of the Welder robot. Using the same frameworks underneath the hood. But this is 
-specifically designed with a default tool, its gripper, hence giving it its name. Klaw
+A small operating system built to explore how computers work beneath the
+abstractions provided by modern operating systems.
 
-[Klaw Repo](https://github.com/KolKemboi/Klaw)
+**C • C++ • Assembly • x86/x86_64 • Kernel Development • Memory Management**
 
-![image url](https://github.com/KolKemboi/KolKemboi/blob/0dd2acaecd6cc0a0780bdc260edfe57f4c2a8877/klaw.png)
+---
+
+##  **[Rust Coreutils](https://github.com/KolKemboi/rust_core_utils)**
+
+Reimplementations of Unix-style core utilities in Rust, focused on understanding
+systems programming and the interfaces between applications and the OS.
+
+**Rust • Unix • POSIX • Systems Programming**
+
+---
+
+##  **[Klaw](https://github.com/KolKemboi/Klaw)**
+
+A robotic arm project involving low-level control, kinematics, motion planning,
+and hardware/software integration.
+
+**C++ • Robotics • Kinematics • Control • Embedded Systems**
+
+---
+
+##  **[DriveBot](https://github.com/KolKemboi/DriveBot)**
+
+A differential-drive robot exploring robotics software, motor control,
+localization, navigation, and autonomous behavior.
+
+**C++ • Robotics • Control Systems • Sensors • Navigation**
+
+---
+
+# Areas of Interest
+
+```text
+Compilers
+├── Lexing
+├── Parsing
+├── IR
+├── Optimization
+└── Code Generation
+
+Operating Systems
+├── Kernels
+├── Memory Management
+├── Processes
+├── Scheduling
+└── Hardware Interfaces
+
+Systems Programming
+├── C
+├── C++
+├── Rust
+└── Assembly
+
+Robotics
+├── Kinematics
+├── Control
+├── Motion Planning
+├── Sensors
+└── Autonomous Systems
+
+Graphics & Simulation
+├── Rendering
+├── Physics
+├── Collision Detection
+├── Numerical Methods
+└── Real-Time Simulation
+
+AI
+├── Algorithms
+├── Robotics AI
+├── Simulation
+└── Intelligent Systems
